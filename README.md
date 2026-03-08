@@ -5,8 +5,9 @@
 - ✅ 重复发票自动检测提示
 - ✅ PDF合并文件名自定义前缀
   程序已封装，下载地址：https://my.feishu.cn/wiki/YDUbwfVIxi8u99kmVcdcjSO5nOo?from=from_copylink
-- # 2. PDF合并功能
+<img width="9197" height="613" alt="image" src="https://github.com/user-attachments/assets/d3bdcfa7-a6e4-43b3-8569-3e30836642e6" />
 
+- # 2. PDF合并功能
 ### 2.1 功能介绍
 
 将多个PDF发票文件合并到一个PDF文件中，支持灵活的排版方式：
