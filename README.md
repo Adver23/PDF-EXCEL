@@ -4,7 +4,7 @@
 - ✅ 火车票支持（信息提取、去重、重命名）
 - ✅ 重复发票自动检测提示
 - ✅ PDF合并文件名自定义前缀
-  程序已封装，下载即用，下载地址：https://my.feishu.cn/wiki/YDUbwfVIxi8u99kmVcdcjSO5nOo?from=from_copylink
+  程序已封装，下载即用，下载地址：
 <img width="3070" height="1742" alt="image" src="https://github.com/user-attachments/assets/c7f27956-2999-44ec-b22d-eefc4d14247f" />
 <img width="9197" height="613" alt="image" src="https://github.com/user-attachments/assets/d3bdcfa7-a6e4-43b3-8569-3e30836642e6" />
 <img width="4997" height="145" alt="image" src="https://github.com/user-attachments/assets/579f46de-475b-4147-81dd-75b7063c097f" />
